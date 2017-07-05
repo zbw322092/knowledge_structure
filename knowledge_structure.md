@@ -22,7 +22,19 @@
     - [Development tools](#development-tools)
       - [git](#git)
       - [VS Code](#vs-code)
+    - [front-end component](#front-end-component)
+      - [scroller](#scroller)
+      - [listview](#listview)
+      - [slideshow](#slideshow)
+      - [swipe](#swipe)
+      - [otp](#otp)
+      - [ngdialog](#ngdialog)
     - [Source Code](#source-code)
+      - [lodash](#lodash)
+      - [Express](#express)
+      - [request](#request)
+      - [through2](#through2)
+      - [jQuery](#jquery-1)
   - [Back-end Skills](#back-end-skills)
     - [node.js](#nodejs)
     - [Java](#java)
@@ -34,6 +46,8 @@
       - [redis](#redis)
   - [Ops Skills](#ops-skills)
     - [Linux(centos)](#linuxcentos)
+    - [bash](#bash)
+    - [shell](#shell)
     - [Nginx](#nginx)
     - [MySQL](#mysql-1)
     - [Apache](#apache)
@@ -134,12 +148,21 @@
 #### git
 #### VS Code
 
+### front-end component
+#### scroller
+#### listview
+#### slideshow
+#### swipe
+#### otp
+#### ngdialog
+...
+
 ### Source Code
-  #### lodash
-  #### Express
-  #### request
-  #### through2
-  #### jQuery
+#### lodash
+#### Express
+#### request
+#### through2
+#### jQuery
 
 
 ## Back-end Skills
@@ -203,6 +226,8 @@
 
 ## Ops Skills
 ### Linux(centos)
+### bash
+### shell
 ### Nginx
 ### MySQL
 ### Apache
